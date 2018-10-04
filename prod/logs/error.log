@@ -1,0 +1,1 @@
+2018/09/22 01:36:27 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.99.1, server: localhost, request: "GET /api/events HTTP/1.1", upstream: "http://172.18.0.4:8000/api/events", host: "192.168.99.100", referrer: "http://192.168.99.100/"
